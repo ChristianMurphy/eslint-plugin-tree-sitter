@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-tree-sitter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Linting rules for tree sitter",
   "keywords": [
     "eslint",

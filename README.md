@@ -1,5 +1,7 @@
 # eslint-plugin-tree-sitter
 
+[![NPM Version](https://img.shields.io/npm/v/eslint-plugin-tree-sitter.svg)](https://www.npmjs.com/package/eslint-plugin-tree-sitter)
+
 Linting rules for tree sitter
 
 ## Installation
@@ -44,8 +46,3 @@ Then configure the rules you want to use under the rules section.
 ## Supported Rules
 
 * Fill in provided rules here
-
-
-
-
-

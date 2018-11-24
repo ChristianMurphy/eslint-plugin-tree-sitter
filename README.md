@@ -22,6 +22,20 @@ $ npm install eslint-plugin-tree-sitter --save-dev
 
 ## Usage
 
+### Recommended Config
+
+Add `plugin:tree-sitter/recommended` to the `extends` section of your `.eslintrc` configuration file:
+
+```json
+{
+    "extends": [
+        "plugin:tree-sitter/recommended"
+    ]
+}
+```
+
+### Manual Config
+
 Add `tree-sitter` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
 
 ```json
